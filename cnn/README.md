@@ -1,1 +1,1 @@
-CNN implementation in TF and Keras
+CNN implementation in TF using the Keras API
